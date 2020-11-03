@@ -7,7 +7,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
-I was born in Hokkaido, Japan in 1996. I received the B.E. degree in Culture and Information Science from Doshisha University, Japan, in 2020. 
+I was born in Hokkaido, Japan in 1996. I received the B.E. degree in Culture and Information Science from Doshisha University in 2020. 
 I am currently a master student of [laboratory for Cyber Resilience](https://iplab.naist.jp/) at Nara Institute of Science and Technology(NAIST).
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
