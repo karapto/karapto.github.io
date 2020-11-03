@@ -23,6 +23,9 @@ Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather
 
 ・Sasada, T., Liu, Z., Baba, T., Hatano, K. and Kimura, Y., 2020. A Resampling Method for Imbalanced Datasets Considering Noise and Overlap. Procedia Computer Science, 176, pp.420-429.
 
+## Research Interests
+My area of research is Privacy-Preserving Data Mining, AI Security, and Database Encryption.
+
 ## Awards
 ・"Student Encouragement Award", WebDB Forum 2019
 
