@@ -13,7 +13,15 @@ I am currently a master student of [Laboratory for Cyber Resilience](https://ipl
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} {% include button.html text="Tip me $5 💸" link="https://www.paypal.me/daviddarnes/5usd" color="#333333" %}
 
 ## Education
-Summer Programme 2016 at St Catharines's College, Cambridge University, August - September in 2016
+・ Advanced Placement, Hokkai-Gakuen Sapporo High School, 2013-2015
+
+・ Kawaijuku Educational Institution, 2015-2016
+
+・ B.E. degree in Culture and Information Science from Doshisha University, 2016-2020.
+
+・ Summer Programme 2016 at St Catharines's College, Cambridge University, August - September in 2016.
+
+
 
 ## Publications
 ・笹田大翔, 刘钊宇, 蒲原智也 and 波多野賢治, 2019. ネットワーク性能指標を用いた不正アクセスの攻撃分類と評価, Web とデータベースに関するフォーラム (WebDB Forum 2019), No.P-21(Poster)
