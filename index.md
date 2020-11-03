@@ -8,11 +8,12 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 ---
 
 I was born in Hokkaido, Japan in 1996. I received the B.E. degree in Culture and Information Science from Doshisha University in 2020. 
-I am currently a master student of [laboratory for Cyber Resilience](https://iplab.naist.jp/) at Nara Institute of Science and Technology(NAIST).
-
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+I am currently a master student of [Laboratory for Cyber Resilience](https://iplab.naist.jp/) at Nara Institute of Science and Technology(NAIST).
 
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} {% include button.html text="Tip me $5 💸" link="https://www.paypal.me/daviddarnes/5usd" color="#333333" %}
+
+## Education
+Summer Programme 2016 at St Catharines's College, Cambridge University, August - September in 2016
 
 ## Publications
 ・笹田大翔, 刘钊宇, 蒲原智也 and 波多野賢治, 2019. ネットワーク性能指標を用いた不正アクセスの攻撃分類と評価, Web とデータベースに関するフォーラム (WebDB Forum 2019), No.P-21(Poster)
@@ -32,11 +33,11 @@ My area of research is Privacy-Preserving Data Mining, AI Security, and Database
 ・"Student Encouragement Award of IPSJ National Convention", The 82nd national Convention of IPSJ
 
 ## Internship
-・ NS Solutions Corporation, August in 2019
+・ NS Solutions Corporation, August in 2017
 
-・ NTT Data, July in 2019
+・ NTT Data, July in 2018
 
-・ Hewlett-Packard Japan, Ltd., September in 2019
+・ Hewlett-Packard Japan, Ltd., September in 2018
 
 ・ NTT Secure Platform Laboratories, September - Octorber in 2020
 
