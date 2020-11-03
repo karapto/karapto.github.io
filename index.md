@@ -1,5 +1,5 @@
 ---
-title: whoami
+title: $whoami
 feature_text: |
   ## Taisho Sasada
   Master student, Nara Institute of Science and Technology 
@@ -14,9 +14,14 @@ Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather
 
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} {% include button.html text="Tip me $5 💸" link="https://www.paypal.me/daviddarnes/5usd" color="#333333" %}
 
-## Features
-こんにちは
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
+## Publication
+・笹田大翔, 刘钊宇, 蒲原智也 and 波多野賢治, 2019. ネットワーク性能指標を用いた不正アクセスの攻撃分類と評価, Web とデータベースに関するフォーラム (WebDB Forum 2019), No.P-21(Poster)
+
+・笹田大翔, 刘钊宇, 蒲原智也 and 波多野賢治, 2019. ネットワーク性能指標を加味した不正アクセス攻撃の分類法, 関西データベースワークショップ, No.S4-6(Poster)
+
+・笹田大翔, 馬場睦也, 木村優介 and 波多野賢治, 2020. データの複雑性を考慮した不均衡データに対するリサンプリング手法. 第 82 回全国大会講演論文集, 2020(1), pp.275-276.
+
+・Sasada, T., Liu, Z., Baba, T., Hatano, K. and Kimura, Y., 2020. A Resampling Method for Imbalanced Datasets Considering Noise and Overlap. Procedia Computer Science, 176, pp.420-429.
 
 ### Quick setup
 
