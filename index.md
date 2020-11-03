@@ -28,11 +28,29 @@ Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather
 
 ・"Student Encouragement Award of IPSJ National Convention", The 82nd national Convention of IPSJ
 
+## Internship
+・ NS Solutions Corporation, August in 2019
+
+・ NTT Data, July in 2019
+
+・ Hewlett-Packard Japan, Ltd., September in 2019
+
+・ NTT Secure Platform Laboratories, September - Octorber in 2020
+
+・ Cybozu lab, July in 2020 - March in 2021
+
+## Competision
+・ 経営科学系研究部会連合協議会主催平成30年度データ解析コンペティション関西予選
+
+・ Wakayama data utilization competition the 2nd time.
+
+・ マルウェア対策研究人材育成ワークショップ 2020
+
 ## Hobbys
 
-・🎻🎫 Violin and classical music appreciation
+・Violin and classical music appreciation🎻🎫
 
-・🎿🏂 Skiing and Snowboarding
+・Skiing and Snowboarding🎿🏂
 
 ・Overseas Trip (🇩🇪🇬🇧🏴󠁧󠁢󠁳󠁣󠁴󠁿🇺🇸🇦🇹🇮🇹🇭🇰🇹🇭🇫🇷🇧🇪)
 
