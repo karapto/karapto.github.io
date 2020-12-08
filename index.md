@@ -30,7 +30,9 @@ I am currently a master student of [Laboratory for Cyber Resilience](https://ipl
 
 ・笹田大翔, 馬場睦也, 木村優介 and 波多野賢治, 2020. データの複雑性を考慮した不均衡データに対するリサンプリング手法. 第 82 回全国大会講演論文集, 2020(1), pp.275-276.
 
-・Sasada, T., Liu, Z., Baba, T., Hatano, K. and Kimura, Y., 2020. A Resampling Method for Imbalanced Datasets Considering Noise and Overlap. Procedia Computer Science, 176, pp.420-429.
+・Sasada, Taisho, Zhaoyu Liu, Tokiya Baba, Kenji Hatano, and Yusuke Kimura. "A Resampling Method for Imbalanced Datasets Considering Noise and Overlap." Procedia Computer Science 176 (2020): 420-429.
+
+・Sasada, Taisho., Yuzo Taenaka, and Youki Kadobayashi. "Anonymizing Location Information in Unstructured Text Using Knowledge Graph.", Proceedings of the 22nd International Conference on Information Integration and Web-based Applications & Services, vol.2020, pp.163-167
 
 ## Research Interests
 My area of research is Privacy-Preserving Data Mining, AI Security, and Database Encryption.
