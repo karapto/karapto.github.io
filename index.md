@@ -34,6 +34,8 @@ I am currently a master student of [Laboratory for Cyber Resilience](https://ipl
 
 ・Sasada, Taisho., Yuzo Taenaka, and Youki Kadobayashi. "Anonymizing Location Information in Unstructured Text Using Knowledge Graph.", Proceedings of the 22nd International Conference on Information Integration and Web-based Applications & Services, vol.2020, pp.163-167
 
+・笹田大翔， 妙中雄三， 門林雄基， Doudou Fall，　2020. ユーザの軌跡隣接性を考慮した局所差分プライバシにおけるノイズ付加量変化の検討. 情報セキュリティ研究会(ISEC)， 120(226)， pp.45-50.
+
 ## Research Interests
 My area of research is Privacy-Preserving Data Mining, AI Security, and Database Encryption.
 
