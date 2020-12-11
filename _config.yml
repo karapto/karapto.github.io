@@ -119,7 +119,7 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-- title: iplab
+- title: Laboratory for Cyber Resilience 
   url: https://iplab.naist.jp/
 - title: Cybozu labs
   url: https://labs.cybozu.co.jp/
