@@ -3,9 +3,11 @@ title: $whoami
 feature_text: |
   ## Taisho Sasada
   Master student, Nara Institute of Science and Technology 
-feature_image: "https://scontent.fkix1-2.fna.fbcdn.net/v/t1.0-9/65870608_1213869395453019_1964372978669977600_n.jpg?_nc_cat=102&ccb=2&_nc_sid=19026a&_nc_ohc=euuIRHozdRkAX8nLuTS&_nc_ht=scontent.fkix1-2.fna&oh=0aafde6cefeae6caeeb8d55aaa31c195&oe=5FC85A95"
+feature_image: "https://www.facebook.com/photo?fbid=914714048701890&set=picfp.100004899093839"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
+
+
 
 I was born in Hokkaido, Japan in 1996. I received the B.E. degree in Culture and Information Science from Doshisha University in 2020. 
 I am currently a master student of [Laboratory for Cyber Resilience](https://iplab.naist.jp/) at Nara Institute of Science and Technology(NAIST).
