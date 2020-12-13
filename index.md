@@ -57,7 +57,7 @@ My area of research is Privacy-Preserving Data Mining, AI Security, and Database
 
 ・ Cybozu lab, July in 2020 - March in 2021
 
-## Competision
+## Data Competision
 ・ 経営科学系研究部会連合協議会主催平成30年度データ解析コンペティション関西予選
 
 ・ Wakayama data utilization competition the 2nd time.
