@@ -74,8 +74,6 @@ My area of research is Privacy-Preserving Data Mining, AI Security, and Database
 
 ### Quick setup
 
-To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
-
 - ⚗️🍨 Vanilla Jekyll starter kit  
   [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"}
 - ⚗️🌲 Forestry starter kit  
